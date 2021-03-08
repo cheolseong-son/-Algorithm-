@@ -1,1 +1,1 @@
-# project_A
+# kaggle 타이타닉 연습
